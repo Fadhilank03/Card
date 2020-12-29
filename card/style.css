@@ -3,11 +3,10 @@ body{
 	text-align: center;
 	
 }
-footer{
-	background-color: 	black;
-	text-align: center;	
-	color: 	white;
+.head{
+	text-align: center;
 }
-.row{
-	
+.card-body{
+	width: 400px;
+	height: 400px;
 }
